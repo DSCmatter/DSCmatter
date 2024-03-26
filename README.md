@@ -7,7 +7,7 @@ My name is Vasant and I'm a Computer Science (or specifically Information Techno
 - 🌱 I’m currently learning Flask and working on some projects.
 
 ## Get in Touch
-- 📫 You can reach out to me via email: [Gmail](mailto:vasantmogia05@gmail.com)
+- 📫 You can reach out to me via email: [Gmail](mailto:vasant.mogia@gmail.com)
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/vasant-kumar-mogia-752aa52a1/)
 - 🐦 Follow me on [Twitter](https://twitter.com/printemps0511?t=NcegBbIkWkEJgEu1U_M-aw) to know more about me!
 
