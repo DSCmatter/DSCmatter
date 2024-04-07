@@ -4,7 +4,7 @@ My name is Vasant and I'm a Computer Science (or specifically Information Techno
 
 ## About Me
 - 👀 I’m interested in Computer Science, Video Games, and Novels, specifically Fantasy ones!
-- 🌱 I’m currently learning Flask and working on some projects.
+- 🌱 I’m currently working on some projects.
 
 ## Get in Touch
 - 📫 You can reach out to me via email: [Gmail](mailto:vasant.mogia@gmail.com)
