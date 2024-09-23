@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋, I'm Vasant Kumar Mogia</h2>
 <h4 align="left">A passionate aspiring Software developer from India, currently in 2nd year IT major.</h4>
-<h4 align="left">I'm currently working on 🏌️‍♂️: some projects</h4>
-<h4 align="left">Would love to talk about ⛳️: CS, Novels and video games!</h4>
+<h4 align="left">I'm currently working on 🏌️‍♂️:  some projects</h4>
+<h4 align="left">Would love to talk about ⛳️:  CS, Novels and video games!</h4>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=DSCmatter&locale=en&mode=weekly&theme=graywhite&hide_border=false&border_radius=10" height="180" alt="streak graph"  />
 </div>
