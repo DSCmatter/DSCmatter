@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=DSCmatter&locale=en&mode=weekly&theme=graywhite&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=DSCmatter&locale=en&mode=weekly&theme=graywhite&hide_border=false&border_radius=10" height="180" alt="streak graph"  />
 </div>
 
 ###
