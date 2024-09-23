@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left" style="font-size: 1.5em;>Languages and Tools 🎯:</p>
+<p align="left" style="font-size: 1.5em;">Languages and Tools 🎯:</p>
 
 ###
 
@@ -57,7 +57,7 @@
 
 ###
 
-<p align="left" style="font-size: 1.5em;>Contact Me 🛼:</p>
+<p align="left" style="font-size: 1.5em;">Contact Me 🛼:</p>
 
 <div align="left">
   <a href="mailto:vasant.mogia@gmail.com" target="_blank">
