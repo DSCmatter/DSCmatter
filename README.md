@@ -2,13 +2,13 @@
 
 ###
 
+<h2 align="left">A passionate aspiring Software developer from India, currently in 2nd year IT major.</h2>
+
 <br clear="both">
 
-<p align="left">A passionate aspiring Software developer from India, currently in 2nd year IT major.</p>
-
-###
-
-<p align="left">I'm currently working on 🏌️‍♂️: some projects<br><br>Would love to talk about ⛳️: CS, Novels and video games!</p>
+<h3 align="left">I'm currently working on 🏌️‍♂️: some projects</h3>
+<br>
+<h3 align="left">Would love to talk about ⛳️: CS, Novels and video games!</h3>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Languages and Tools 🎯:</p>
+<h4 align="left">Languages and Tools 🎯:</h4>
 
 ###
 
@@ -67,7 +67,7 @@
 
 ###
 
-<p align="left">Contact Me 🛼:</p>
+<h5 align="left">Contact Me 🛼:</h5>
 
 <div align="left">
   <a href="mailto:vasant.mogia@gmail.com" target="_blank">
