@@ -2,13 +2,13 @@
 
 ###
 
-<h2 align="left">A passionate aspiring Software developer from India, currently in 2nd year IT major.</h2>
+<h4 align="left">A passionate aspiring Software developer from India, currently in 2nd year IT major.</h4>
 
 <br clear="both">
 
-<h3 align="left">I'm currently working on 🏌️‍♂️: some projects</h3>
+<h4 align="left">I'm currently working on 🏌️‍♂️: some projects</h4>
 <br>
-<h3 align="left">Would love to talk about ⛳️: CS, Novels and video games!</h3>
+<h4 align="left">Would love to talk about ⛳️: CS, Novels and video games!</h4>
 
 ###
 
