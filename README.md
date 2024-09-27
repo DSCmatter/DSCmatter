@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Vasant Kumar Mogia</h2>
-<p align="left" style="font-size: 1.5em;">A passionate aspiring Software developer from India, currently in 2nd year IT major.</p>
+<p align="left" style="font-size: 1.5em;">A passionate aspiring Software Engineer from India, currently in 2nd year IT major.</p>
 <p align="left" style="font-size: 1.5em;">I'm currently working on 🏌️‍♂️: some projects</p>
 <p align="left" style="font-size: 1.5em;">Would love to talk about ⛳️: CS, Novels and video games!</p>
 <div align="center">
