@@ -12,4 +12,4 @@ My name is Vasant Kumar Mogia and I'm a sophomore. I'm an Indian living in the M
 
 ## &#x1f4c8; GitHub Stats
 
-![GitHub Metrics](github-metrics.svg)
+![Metrics](/github-metrics.svg)
