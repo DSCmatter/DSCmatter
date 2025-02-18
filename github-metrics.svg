@@ -38,7 +38,7 @@
   followed by <b>14</b> users
 </div>
 <div class="stdin"><span class="ps1-path">dscmatter@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b>  348</b> commits
+  <b>  349</b> commits
   <b>    1</b> pull request reviewed
   <b>    2</b> pull requests opened
   <b>    7</b> issues opened
@@ -50,14 +50,14 @@
   <b>   11</b> repositories starred
   <b>   27</b> repositories watched
 </div>
-<div class="stdin"><span class="ps1-path">dscmatter@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>C++         </b> [#                   ] 4.83 %
-<b>SCSS        </b> [#                   ] 3.38 %
-<b>JAVASCRIPT  </b> [#                   ] 3.03 %
-<b>PYTHON      </b> [#                   ] 2.73 %
-<b>R           </b> [#                   ] 0.65 %
-<b>TYPESCRIPT  </b> [#                   ] 0.65 %
-<b>JAVA        </b> [#                   ] 0.40 %
-<b>OTHER       </b> [#################   ] 84.32%
+<div class="stdin"><span class="ps1-path">dscmatter@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>HTML        </b> [##############      ] 68.88%
+<b>C++         </b> [##                  ] 7.67 %
+<b>CSS         </b> [##                  ] 6.88 %
+<b>SCSS        </b> [##                  ] 5.36 %
+<b>JAVASCRIPT  </b> [#                   ] 4.81 %
+<b>PYTHON      </b> [#                   ] 4.32 %
+<b>R           </b> [#                   ] 1.04 %
+<b>TYPESCRIPT  </b> [#                   ] 1.03 %
 </div>
 
 </pre>
