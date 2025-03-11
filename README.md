@@ -5,8 +5,8 @@ My name is Vasant Kumar Mogia, and I am a sophomore @ MITS, currently residing i
   - 🐍 Cloud
   - 📈 Probably some backend
 - 🌱 I’m currently learning:
-  - 🤫 AWS
-  - 📜 Doing LC
+  - 🤫 AWS & Go
+  - 📜 Doing LC & CF
   - ➕ Python, JS, DevOps/Cloud
 - 😄 Pronouns: He/Him
 
