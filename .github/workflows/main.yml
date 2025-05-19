@@ -36,15 +36,15 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_ignored: html, css, scss, Jupyter Notebook
+          plugin_languages_ignored: html, css, scss, Jupyter Notebook, Ruby, Liquid
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
+          plugin_languages_recent_days: 60
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
+          plugin_languages_threshold: 2%
           plugin_lines: yes
           plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
+          plugin_lines_repositories_limit: 8
           plugin_lines_sections: base
           repositories_ignored: DSCmatter/DSCmatter.github.io
