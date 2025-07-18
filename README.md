@@ -1,5 +1,5 @@
 ## Hello there 👋
-My name is Vasant Kumar Mogia, and I am a sophomore @ MITS, currently residing in MP, India. I am pursuing a major in IT.
+My name is Vasant Kumar Mogia, and I am a junior @ MITS, currently residing in MP, India. I am pursuing a major in IT.
 
 - 🔭 I’m currently working on:
   - 🐍 Cloud
