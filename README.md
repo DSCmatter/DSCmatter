@@ -1,5 +1,5 @@
-## Hello there 👋
-My name is Vasant Kumar Mogia, and I am a junior @ MITS, currently residing in MP, India. I am pursuing a major in IT.
+## Heya! 👋
+My name is Vasant, and I am a junior pursuing a major in IT.
 
 - 🔭 I’m currently working on:
   - 🐍 Cloud
@@ -8,7 +8,10 @@ My name is Vasant Kumar Mogia, and I am a junior @ MITS, currently residing in M
   - 🤫 AWS & Go
   - 📜 Doing LC & CF
   - ➕ Python, JS, DevOps/Cloud
-- 😄 Pronouns: He/Him
+
+[Website](https://dscmatter.github.io/) • [Discord](discordapp.com/users/660897315925655557)
+
+—The most chronological way to do something is to practice it.
 
 ## &#x1f4c8; GitHub Stats
 
