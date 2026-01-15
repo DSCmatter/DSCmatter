@@ -6,7 +6,7 @@ I am `Vasant Kumar Mogia`, an undergraduate student @ MITS
 * 💬 English(en) हिन्दी(hi)
 * 🧠 Interests: Software, AI, Backend infra
 * 💕 Opensource
-* 💜 Likes Go, TypeScript, and Python
+* 💜 Likes: Python, TypeScript, Go
 
 ## Work Experience
 
