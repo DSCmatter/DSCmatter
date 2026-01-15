@@ -58,7 +58,29 @@ I am `Vasant Kumar Mogia`, an undergraduate student @ MITS
 * [DSCmatter/MyRedis](https://github.com/DSCmatter/MyRedis): Your own miniature Redis implementation in Go
 * [DSCmatter/AegisCC](https://github.com/DSCmatter/AegisCC): Minimalistic x86-64 JIT compiler written in C++
 * [DSCmatter/WinsockComm](https://github.com/DSCmatter/WinsockComm): TCP client-server communication using Winsock API
-* [DSCmatter/B2C-Transpiler](https://github.com/DSCmatter/B2C-Transpiler): A minimalistic compiler designed to process a BASIC dialect 
+* [DSCmatter/B2C-Transpiler](https://github.com/DSCmatter/B2C-Transpiler): A minimalistic compiler designed to process a BASIC dialect
+  
+## Things I code with: 
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) 
+![Python](http://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff) 
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) 
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) 
+![React](https://img.shields.io/badge/React-%23007ACC?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Nodejs-43853d?style=flat-square&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Expressjs-43853d.svg?style=flat-square&logo=express&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff) 
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) 
+![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%234285F4.svg?style=flat-square&logo=firebase) 
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) 
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) 
+![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 ## Socials
 
