@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I am `Vasant Kumar Mogia`, a undergraduate student @ MITS
+I am `Vasant Kumar Mogia`, an undergraduate student @ MITS
 
 * 📚 CS student
 * 💬 English(en) हिन्दी(hi)
@@ -62,10 +62,10 @@ I am `Vasant Kumar Mogia`, a undergraduate student @ MITS
 
 ## Social
 
-[![LinkedIn](https://img.shields.io/badge/-Vasant_Kumar_Mogia-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vasant-mogia/)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vasant-mogia/)
 [![GitHub](https://img.shields.io/github/followers/DSCmatter?style=social&label=Follow)](https://github.com/DSCmatter)
 [![Website](https://img.shields.io/badge/Website-dscmatter.github.io-blue?style=flat-square)](https://dscmatter.github.io/)
-[![Discord](https://img.shields.io/badge/Discord-Contact-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/660897315925655557)
+[![Discord](https://img.shields.io/badge/Nyx-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/660897315925655557)
 
 
 ## &#x1f4c8; GitHub Stats
