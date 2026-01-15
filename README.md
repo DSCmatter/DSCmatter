@@ -60,13 +60,13 @@ I am `Vasant Kumar Mogia`, an undergraduate student @ MITS
 * [DSCmatter/WinsockComm](https://github.com/DSCmatter/WinsockComm): TCP client-server communication using Winsock API
 * [DSCmatter/B2C-Transpiler](https://github.com/DSCmatter/B2C-Transpiler): A minimalistic compiler designed to process a BASIC dialect 
 
-## Social
+## Socials
 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vasant-mogia/)
+[![Gmail](https://img.shields.io/badge/vasant.mogia%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vasant.mogia@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/DSCmatter?style=social&label=Follow)](https://github.com/DSCmatter)
 [![Website](https://img.shields.io/badge/Website-dscmatter.github.io-blue?style=flat-square)](https://dscmatter.github.io/)
 [![Discord](https://img.shields.io/badge/Nyx-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/660897315925655557)
-
 
 ## &#x1f4c8; GitHub Stats
 
