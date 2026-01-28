@@ -10,7 +10,7 @@ I am `Vasant Kumar Mogia`, an undergraduate student @ MITS
 
 ## Work Experience
 
-- [Sept 2025 - Present:](https://www.linkedin.com/company/metryai/posts/?feedView=all) Software Engineer Intern @ Metry AI 
+- [Sept 2025 - Feb 2026:](https://www.linkedin.com/company/metryai/posts/?feedView=all) Software Engineer Intern @ Metry AI 
 - [July 2025 - Nov 2025:](https://web.mitsgwalior.in/) Student Researcher @ MITS
 
 ## Projects
