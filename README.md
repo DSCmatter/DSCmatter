@@ -19,7 +19,7 @@ I am `Vasant Kumar Mogia`, an undergraduate student @ MITS
 
 **Featured**
 
-* [DarkenStars/VeriFact](https://github.com/DarkenStars/VeriFact) (Hackathon ranked 7th) A fact-checking system that verifies user claims with evidence-backed explanations using web searches and AI, delivering transparent verdicts through a simple interface. 
+* [DarkenStars/VeriFact](https://github.com/DarkenStars/VeriFact) (Hackathon ranked 7th/200 @ HackIndore) A fact-checking system that verifies user claims with evidence-backed explanations using web searches and AI, delivering transparent verdicts through a simple interface. 
 
 * [QuriousAI/qurious](https://github.com/QuriousAI/qurious) An AI-powered research assistant that helps researchers, students, and curious minds find, understand, and organize scientific literature faster.
 
