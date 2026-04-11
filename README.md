@@ -22,7 +22,7 @@ I am `Vasant Kumar Mogia`, a CS undergraduate student
 ## Honors & awards <img src="https://media.tenor.com/0l3zCp-KLX4AAAAi/pictia-nft.gif" width="30"/>
 
 - **HackIndore** - Top 10 Finalists Issued by SGSITS Indore · Sep 2025
-- **The Unstoppable Hackathon** - Bronze Issued by AOSSIE · Mar 2026
+- **The Unstoppable Hackathon** - Bronze (3rd Place) Issued by AOSSIE · Mar 2026
 
 ## Projects  <img src="https://media.tenor.com/7lHdnabfyTQAAAAj/herta-kurukuru.gif" width="40"/>
 
