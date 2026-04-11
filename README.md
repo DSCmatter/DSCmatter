@@ -1,6 +1,10 @@
 ## Hi there! 👋
 
-I am `Vasant Kumar Mogia`, an undergraduate student @ MITS
+<div align="left">
+  <img src="https://media1.tenor.com/m/Cek9YqIUiJUAAAAC/ryo-yamada-ryo.gif" width="200"/>
+</div>
+
+I am `Vasant Kumar Mogia`, a CS undergraduate student
 
 * 📚 CS student
 * 💬 English(en) हिन्दी(hi)
@@ -8,14 +12,19 @@ I am `Vasant Kumar Mogia`, an undergraduate student @ MITS
 * 💕 Opensource
 * 💜 Likes: Python, TypeScript, Go
 
-## Work Experience
+## Work Experience <img src="https://media.tenor.com/0l3zCp-KLX4AAAAi/pictia-nft.gif" width="30"/>
 
 - [Feb 2026 - Present:](https://www.tinkeringsociety.xyz/) Software Engineer (Contract) @ The Tinkering Society
-- [Jan 2026 - Present:](https://web.mitsgwalior.in/) Undergraduate Research Assistant @ MITS
+- [Jan 2026 - Present:](https://web.mitsgwalior.in/) Undergraduate Researcher @ MITS
 - [Sept 2025 - Feb 2026:](https://www.linkedin.com/company/metryai/posts/?feedView=all) Software Engineer Intern @ Metry AI 
 - [July 2025 - Nov 2025:](https://web.mitsgwalior.in/) Student Researcher @ MITS
 
-## Projects
+## Honors & awards <img src="https://media.tenor.com/0l3zCp-KLX4AAAAi/pictia-nft.gif" width="30"/>
+
+- HackIndore - Top 10 Finalists Issued by SGSITS Indore · Sep 2025
+- The Unstoppable Hackathon - Bronze Issued by AOSSIE · Mar 2026
+
+## Projects  <img src="https://media.tenor.com/7lHdnabfyTQAAAAj/herta-kurukuru.gif" width="40"/>
 
 **Featured**
 
@@ -63,7 +72,7 @@ I am `Vasant Kumar Mogia`, an undergraduate student @ MITS
 * [DSCmatter/WinsockComm](https://github.com/DSCmatter/WinsockComm): TCP client-server communication using Winsock API
 * [DSCmatter/B2C-Transpiler](https://github.com/DSCmatter/B2C-Transpiler): A minimalistic compiler designed to process a BASIC dialect
   
-## Things I code with: 
+## Things I code with:  <img src="https://media.tenor.com/7lHdnabfyTQAAAAj/herta-kurukuru.gif" width="40"/>
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) 
 ![Python](http://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) 
@@ -85,12 +94,13 @@ I am `Vasant Kumar Mogia`, an undergraduate student @ MITS
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) 
 ![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
-## Socials
+## Socials 
+<img src="https://media1.tenor.com/m/YDY5vKZ8H0wAAAAC/ryo-ryo-yamada.gif" width="100"/>
 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vasant-mogia/)
 [![Gmail](https://img.shields.io/badge/vasant.mogia%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vasant.mogia@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/DSCmatter?style=social&label=Follow)](https://github.com/DSCmatter)
-[![Website](https://img.shields.io/badge/Website-dscmatter.github.io-blue?style=flat-square)](https://dscmatter.github.io/)
+[![Website](https://img.shields.io/badge/Website-dscmatter.me-blue?style=flat-square)](https://dscmatter.me/)
 [![Discord](https://img.shields.io/badge/Nyx-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/660897315925655557)
 
 ## &#x1f4c8; GitHub Stats
