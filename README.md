@@ -14,10 +14,10 @@ I am `Vasant Kumar Mogia`, a CS undergraduate student
 
 ## Work Experience <img src="https://media.tenor.com/0l3zCp-KLX4AAAAi/pictia-nft.gif" width="30"/>
 
-- [Feb 2026 - Present:](https://www.tinkeringsociety.xyz/) Software Engineer (Contract) @ The Tinkering Society
-- [Jan 2026 - Present:](https://web.mitsgwalior.in/) Undergraduate Researcher @ MITS
+- [Feb - Apr 2026:](https://www.tinkeringsociety.xyz/) Software Engineer (Contract) @ The Tinkering Society
+- [Jan - Apr 2026:](https://web.mitsgwalior.in/) Undergraduate Researcher @ MITS
 - [Sept 2025 - Feb 2026:](https://www.linkedin.com/company/metryai/posts/?feedView=all) Software Engineer Intern @ Metry AI 
-- [July 2025 - Nov 2025:](https://web.mitsgwalior.in/) Student Researcher @ MITS
+- [July - Nov 2025:](https://web.mitsgwalior.in/) Student Researcher @ MITS
 
 ## Honors & awards <img src="https://media.tenor.com/0l3zCp-KLX4AAAAi/pictia-nft.gif" width="30"/>
 
