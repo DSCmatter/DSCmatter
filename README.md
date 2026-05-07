@@ -4,7 +4,7 @@
   <img src="https://media1.tenor.com/m/Cek9YqIUiJUAAAAC/ryo-yamada-ryo.gif" width="200"/>
 </div>
 
-I am `Vasant Kumar Mogia`, a CS undergraduate student
+I am **Vasant Kumar Mogia**, a CS undergraduate student
 
 * 📚 CS student
 * 💬 English(en) हिन्दी(hi)
@@ -41,7 +41,7 @@ I am `Vasant Kumar Mogia`, a CS undergraduate student
 **Research**
 
 * [DSCmatter/Dryfruit_Grade_Classification](https://github.com/DSCmatter/Dryfruit_Grade_Classification): A deep learning model to classify images of dry fruits (such as almonds and cashews) into different quality grades (for example, Grade A and Grade B).
-* [DSCmatter/adaptive-qlearning-web-crawler](https://github.com/DSCmatter/adaptive-qlearning-web-crawler): Models focused web crawling as a reinforcement learning task, where a Q-learning agent adaptively selects links to maximize topical relevance and minimize crawl cost. Performance is compared against heuristic-based crawlers to evaluate efficiency, coverage, and learning convergence. (ongoing)
+* [DSCmatter/adaptive-qlearning-web-crawler](https://github.com/DSCmatter/adaptive-qlearning-web-crawler): Models focused web crawling as a reinforcement learning task, where a Q-learning agent adaptively selects links to maximize topical relevance and minimize crawl cost. Performance is compared against heuristic-based crawlers to evaluate efficiency, coverage, and learning convergence. 
 
 **AI & Data Science**
 
