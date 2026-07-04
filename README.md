@@ -4,17 +4,12 @@
   <img src="https://media1.tenor.com/m/Cek9YqIUiJUAAAAC/ryo-yamada-ryo.gif" width="200"/>
 </div>
 
-I am **Vasant Kumar Mogia**, a CS undergraduate student
-
-* 📚 CS student
-* 💬 English(en) हिन्दी(hi)
-* 🧠 Interests: Software, AI, Backend infra
-* 💕 Opensource
-* 💜 Likes: Python, TypeScript, Go
+I'm Vasant, a CS undergraduate student and Software Engineer focused on backend systems, cloud infrastructure, APIs, developer tooling, and AI applications. 
 
 ## Work Experience <img src="https://media.tenor.com/0l3zCp-KLX4AAAAi/pictia-nft.gif" width="30"/>
 
-- [Feb - Apr 2026:](https://www.tinkeringsociety.xyz/) Software Engineer (Contract) @ The Tinkering Society
+- [June 2026 - Present:](https://quartermill.co/) AI Agent Engineer Intern @ QuarterMill
+- [Feb - Apr 2026:](https://www.tinkeringsociety.xyz/) Software Engineer Intern @ The Tinkering Society
 - [Jan - Apr 2026:](https://web.mitsgwalior.in/) Undergraduate Researcher @ MITS
 - [Sept 2025 - Feb 2026:](https://www.linkedin.com/company/metryai/posts/?feedView=all) Software Engineer Intern @ Metry AI 
 - [July - Nov 2025:](https://web.mitsgwalior.in/) Student Researcher @ MITS
@@ -71,28 +66,6 @@ I am **Vasant Kumar Mogia**, a CS undergraduate student
 * [DSCmatter/AegisCC](https://github.com/DSCmatter/AegisCC): Minimalistic x86-64 JIT compiler written in C++
 * [DSCmatter/WinsockComm](https://github.com/DSCmatter/WinsockComm): TCP client-server communication using Winsock API
 * [DSCmatter/B2C-Transpiler](https://github.com/DSCmatter/B2C-Transpiler): A minimalistic compiler designed to process a BASIC dialect
-  
-## Things I code with:  <img src="https://media.tenor.com/7lHdnabfyTQAAAAj/herta-kurukuru.gif" width="40"/>
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) 
-![Python](http://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff) 
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) 
-![React](https://img.shields.io/badge/React-%23007ACC?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Nodejs-43853d?style=flat-square&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Expressjs-43853d.svg?style=flat-square&logo=express&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff) 
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) 
-![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%234285F4.svg?style=flat-square&logo=firebase) 
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) 
-![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 ## Socials 
 <img src="https://media1.tenor.com/m/YDY5vKZ8H0wAAAAC/ryo-ryo-yamada.gif" width="100"/>
