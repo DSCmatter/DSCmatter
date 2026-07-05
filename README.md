@@ -1,7 +1,7 @@
 ## Hi there! 👋
 
 <div align="left">
-  <img src="https://media1.tenor.com/m/Cek9YqIUiJUAAAAC/ryo-yamada-ryo.gif" width="200"/>
+  <img src="https://media1.tenor.com/m/ki2D2cGMKGIAAAAd/hayasaka-ai-kaguya-sama-love-is-war.gif" width="200"/>
 </div>
 
 I'm Vasant, a CS undergraduate student and Software Engineer focused on backend systems, cloud infrastructure, APIs, developer tooling, and AI applications. 
@@ -11,8 +11,7 @@ I'm Vasant, a CS undergraduate student and Software Engineer focused on backend 
 - [June 2026 - Present:](https://quartermill.co/) AI Agent Engineer Intern @ QuarterMill
 - [Feb - Apr 2026:](https://www.tinkeringsociety.xyz/) Software Engineer Intern @ The Tinkering Society
 - [Jan - Apr 2026:](https://web.mitsgwalior.in/) Undergraduate Researcher @ MITS
-- [Sept 2025 - Feb 2026:](https://www.linkedin.com/company/metryai/posts/?feedView=all) Software Engineer Intern @ Metry AI 
-- [July - Nov 2025:](https://web.mitsgwalior.in/) Student Researcher @ MITS
+- [Sept 2025 - Feb 2026:](https://www.metryai.com/en) Software Engineer Intern @ Metry AI 
 
 ## Honors & awards <img src="https://media.tenor.com/0l3zCp-KLX4AAAAi/pictia-nft.gif" width="30"/>
 
@@ -23,7 +22,9 @@ I'm Vasant, a CS undergraduate student and Software Engineer focused on backend 
 
 **Featured**
 
-* [DarkenStars/VeriFact](https://github.com/DarkenStars/VeriFact) (Hackathon ranked 7th/200 @ HackIndore) A fact-checking system that verifies user claims with evidence-backed explanations using web searches and AI, delivering transparent verdicts through a simple interface. 
+* [Psionic-labs/Vigil](https://github.com/Psionic-labs/Vigil) An AI-native bug triage platform that watches real user sessions, detects broken UX automatically, and turns failures into developer-ready GitHub issues. 
+
+* [DarkenStars/VeriFact](https://github.com/DarkenStars/VeriFact) (Hackathon Top 10) A fact-checking system that verifies user claims with evidence-backed explanations using web searches and AI, delivering transparent verdicts through a simple interface. 
 
 * [QuriousAI/qurious](https://github.com/QuriousAI/qurious) An AI-powered research assistant that helps researchers, students, and curious minds find, understand, and organize scientific literature faster.
 
@@ -68,7 +69,7 @@ I'm Vasant, a CS undergraduate student and Software Engineer focused on backend 
 * [DSCmatter/B2C-Transpiler](https://github.com/DSCmatter/B2C-Transpiler): A minimalistic compiler designed to process a BASIC dialect
 
 ## Socials 
-<img src="https://media1.tenor.com/m/YDY5vKZ8H0wAAAAC/ryo-ryo-yamada.gif" width="100"/>
+<img src="https://media1.tenor.com/m/0kdyGbikjlAAAAAC/hayasaka-ai-hayasaka.giff" width="100"/>
 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vasant-mogia/)
 [![Gmail](https://img.shields.io/badge/vasant.mogia%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vasant.mogia@gmail.com)
