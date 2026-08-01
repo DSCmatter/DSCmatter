@@ -11,7 +11,7 @@ nice to meet you.
 
 ### Experience <img src="https://media.tenor.com/0l3zCp-KLX4AAAAi/pictia-nft.gif" width="30"/>
 
-- AI Agent Engineer Intern — QuarterMill 
+- AI Engineer Intern — QuarterMill 
 - Software Engineer Intern — The Tinkering Society
 - Undergraduate Researcher — MITS
 - Software Engineer Intern — Metry AI
