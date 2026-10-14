@@ -1,20 +1,17 @@
-Hi I'm Vasant a Software Engineer guy :)
+Hi I'm Vasant!
 
 nice to meet you.
 
-<div align="left">
-  <img src="https://media1.tenor.com/m/ki2D2cGMKGIAAAAd/hayasaka-ai-kaguya-sama-love-is-war.gif" width="200"/>
-</div>
-
+What's you fav pokemon?
 
 ---
 
 ### Experience <img src="https://media.tenor.com/0l3zCp-KLX4AAAAi/pictia-nft.gif" width="30"/>
 
-- AI Engineer Intern — QuarterMill 
-- Software Engineer Intern — The Tinkering Society
-- Undergraduate Researcher — MITS
-- Software Engineer Intern — Metry AI
+- AI Engineer Intern - QuarterMill 
+- Software Engineer Intern - The Tinkering Society
+- Undergraduate Researcher - MITS
+- Software Engineer Intern - Metry AI
 
 ---
 
