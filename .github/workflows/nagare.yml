@@ -1,4 +1,10 @@
 # .github/workflows/nagare.yml in your profile repository (<login>/<login>)
+#
+# Draws a year of activity as a river where each current is a language.
+# The upstream action (uses: monex00/nagare@main) renders repositories, so the
+# renderer is vendored under vendor/nagare and driven in three steps here:
+#   fetch -> group by dominant language -> render
+# Snapshot files stay on the runner; only the SVG is committed.
 name: nagare
 on:
   schedule:
@@ -9,12 +15,18 @@ permissions:
 jobs:
   draw:
     runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.NAGARE_TOKEN || github.token }}
+      PYTHONPATH: vendor
+      PYTHONUTF8: "1"
     steps:
       - uses: actions/checkout@v7
-      - uses: monex00/nagare@main
+      - uses: actions/setup-python@v7
         with:
-          # personal token for private activity if the secret exists, else the built-in one
-          token: ${{ secrets.NAGARE_TOKEN || github.token }}
+          python-version: "3.12"
+      - run: python -m nagare.fetch "${{ github.repository_owner }}" -o "$RUNNER_TEMP/snapshot.json"
+      - run: python -m nagare.by_language "$RUNNER_TEMP/snapshot.json" -o "$RUNNER_TEMP/snapshot-language.json"
+      - run: python -m nagare "$RUNNER_TEMP/snapshot-language.json" -o nagare/nagare.svg --theme auto
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
