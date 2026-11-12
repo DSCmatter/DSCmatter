@@ -11,4 +11,6 @@ want to know more? visit my website: [dscmatter.me](https://dscmatter.me) .
 
 ### &#x1f4c8; GitHub Stats
 
+<img src="nagare/nagare.svg" width="100%" alt="nagare" />
+
 ![GitHub Metrics](github-metrics.svg)
